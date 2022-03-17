@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ZooApp</string>
+    <string name="infoBar">Information</string>
+    <string name="deleteBar">Uninstall</string>
+
+
+    <string-array name="animalType">
+        <item>Elephant</item>
+        <item>Giraffe</item>
+        <item>Panda</item>
+        <item>Rhino</item>
+        <item>Zebra</item>
+
+    </string-array>
+    <string-array name="info">
+        <item>Elephants are large grey animals with big ears, long noses and white tusks. They are the largest living land mammals(Wikipedia). </item>
+        <item>A giraffe (Giraffa camelopardalis) is a mammal which lives in Africa. Giraffes have an even number of toes and are the tallest land animals(Wikipedia). Known for their long necks.</item>
+        <item>Giant pandas are bears. They have black and white fur all around them. The black fur is on their ears, around their eyes, on their legs, and on their shoulders(Wikipedia).</item>
+        <item>A rhinoceros (rhino for short) is any animal in the family Rhinocerotidae. They are in the order Perissodactyla, or odd-toed ungulates. There are five living species. Two of these species are native to Africa. Three of these species are also native to Southern parts of Asia (Wikipedia).Some are in critical danger of extinction from hunters. </item>
+        <item>All zebras have very short fur because they live in hot areas. Their fur has black and white stripes. The main part of the body has mostly vertical stripes, and the legs have horizontal stripes. They also have a dark line directly down their spine. Each of the different zebra species has different type of stripes. Each zebra has a unique pattern (Wikipedia).</item>
+    </string-array>
+
+</resources>
